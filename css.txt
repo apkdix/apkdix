@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+   
+box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+:root {
+    --primary: #00ffcc;
+    --secondary: #00ccff;
+    --dark: #121212;
+--light: #1e1e1e;
+    --white: #ffffff;
+    --text: #e0e0e0;
+}
+
+body {
+    background: var(--dark);
